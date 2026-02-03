@@ -56,6 +56,12 @@ Se ha utilizado ChatGpt para generar más rápido el Sender.exe.
 
 ---
 
+## EJECUCION
+
+Ejecutar en carpeta ./build/receiver.exe y en carpeta src/sender.exe
+
+---
+
 ## Problemas y consultas
 
 Durante el desarrollo se han encontrado varios problemas, listados de menos complejos a más complejos:
