@@ -94,5 +94,12 @@ Durante el desarrollo se han encontrado varios problemas, listados de menos comp
     11.- Una vez que se observa que se reciben tramas con valores variables en la geoposición se procede a parsear en el receirver y a desarrollar la comprobación de geoposición: fórmulas de cálculo de posición, tratamiento de cadenas.
     12.- Pruebas finales.
 
+## Proyección de horas
+
+    - En total se ha tardado unas 8 horas:
+        - 1 de documentación eléctrica 
+        - 7 de codificación
+    - Las horas estimadas al leer el enunciado de la prueba fueron bastantes más, ya que, son tecnologías **que no manejo**, pero con ayuda de la IA y tutoriales se ha avanzado más rápido.
+
 
 
