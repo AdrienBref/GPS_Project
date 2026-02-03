@@ -77,7 +77,7 @@ Durante el desarrollo se han encontrado varios problemas, listados de menos comp
     - Manejo de punteros y memorias:
         como se menciona, C es un lenguaje que no manejo y he tenido que consultar varios videos para comprender como usar structs, punteros, etc. Aún así queda mucho por aprender acerca de esto.
     - Inclusión de librerias:
-        lo que me ha sido mas dificultoso ha sido incluir la libreria en el proyecto. Hacía mucho tiempo que no incluía una libreria a mano, normalmente, al utilizar gestores de proyectos como Maven en Java, las dependencias se incluyen direntamente desde un xml. 
+        lo que me ha sido mas dificultoso ha sido incluir la libreria en el proyecto. Hacía mucho tiempo que no incluía una libreria a mano, normalmente, al utilizar gestores de proyectos como Maven en Java, las dependencias se incluyen direntamente desde un xml. Muchos problemas con los archivos MakeFiles, los cuales también se consultaron con distintas IAs.
 
 
 
