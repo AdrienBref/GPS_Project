@@ -79,6 +79,20 @@ Durante el desarrollo se han encontrado varios problemas, listados de menos comp
     - Inclusión de librerias:
         lo que me ha sido mas dificultoso ha sido incluir la libreria en el proyecto. Hacía mucho tiempo que no incluía una libreria a mano, normalmente, al utilizar gestores de proyectos como Maven en Java, las dependencias se incluyen direntamente desde un xml. Muchos problemas con los archivos MakeFiles, los cuales también se consultaron con distintas IAs.
 
+## PROCESO
+
+    1.- Se busca información de los dispositivos a manejar.
+    2.- Se usa rapsberry no por nada en especial, si no porque se ha usado en otros proyectos para pruebas.
+    3.- Se conuslta documentación eléctrica de ambos y se dibuja documentación.
+    4.- Se decido cómo hacer un sistema cerrado y funcional para poder probar lo que se codifica. 
+    5.- Se llega a la conclusión de utilizar las prácticas seguidas en otras ocasiones(en el caso de comunicaciones TCP/IP ): tener un emisor receptor.
+    6.- Se consulta documentación sobre C y uso de puertos Serie.
+    7.- Se codifica un Receiver y un Sender básico, los cuales imprimen la cadena que se recibe y se envía respectivamente.
+    8.- Se procede a usar la libreria libnmea, se consulta documentación y se trata de incluir en el proyecto.
+    9.- Una vez incluida(y sin errores de compilación) se procede a añadir el parse de la trama fija que se envía.
+    10.- Se procede a codificar con la IA el sender para ir más rápido, ya que, no es el objeto principal de la prueba.
+    11.- Una vez que se observa que se reciben tramas con valores variables en la geoposición se procede a parsear en el receirver y a desarrollar la comprobación de geoposición: fórmulas de cálculo de posición, tratamiento de cadenas.
+    12.- Pruebas finales.
 
 
 
