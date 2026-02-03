@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc lib\libgpgsa.a CMakeFiles/gpgsa.dir/src/parsers/gpgsa.c.obj CMakeFiles/gpgsa.dir/src/parsers/parse.c.obj
+C:\mingw64\bin\ranlib.exe lib\libgpgsa.a

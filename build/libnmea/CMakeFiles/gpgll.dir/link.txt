@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc lib\libgpgll.a CMakeFiles/gpgll.dir/src/parsers/gpgll.c.obj CMakeFiles/gpgll.dir/src/parsers/parse.c.obj
+C:\mingw64\bin\ranlib.exe lib\libgpgll.a

@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc lib\libgpvtg.a CMakeFiles/gpvtg.dir/src/parsers/gpvtg.c.obj CMakeFiles/gpvtg.dir/src/parsers/parse.c.obj
+C:\mingw64\bin\ranlib.exe lib\libgpvtg.a

@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.16)
+project(GpsProjetc C)
+
+set(NMEA_BUILD_STATIC_LIB ON  CACHE BOOL "" FORCE)
+set(NMEA_BUILD_SHARED_LIB OFF CACHE BOOL "" FORCE)
+set(NMEA_BUILD_EXAMPLES   OFF CACHE BOOL "" FORCE)
+set(NMEA_UNIT_TESTS       OFF CACHE BOOL "" FORCE)
+
+add_subdirectory(libnmea)
+
+add_executable(receiver src/receiver.c)
+target_link_libraries(receiver PRIVATE nmea)
+
+# ✅ ESTE INCLUDE ES EL QUE TE FALTA:
+target_include_directories(receiver PRIVATE
+  ${CMAKE_BINARY_DIR}/libnmea/include
+)

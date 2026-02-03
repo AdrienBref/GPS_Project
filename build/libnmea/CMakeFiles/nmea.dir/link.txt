@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc lib\libnmea.a CMakeFiles/nmea.dir/src/nmea/nmea.c.obj CMakeFiles/nmea.dir/src/nmea/parser_static.c.obj CMakeFiles/nmea.dir/src/parsers/parse.c.obj CMakeFiles/nmea.dir/src/parsers/gpgga.c.obj CMakeFiles/nmea.dir/src/parsers/gpgll.c.obj CMakeFiles/nmea.dir/src/parsers/gpgsa.c.obj CMakeFiles/nmea.dir/src/parsers/gpgsv.c.obj CMakeFiles/nmea.dir/src/parsers/gprmc.c.obj CMakeFiles/nmea.dir/src/parsers/gptxt.c.obj CMakeFiles/nmea.dir/src/parsers/gpvtg.c.obj
+C:\mingw64\bin\ranlib.exe lib\libnmea.a

@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc lib\libgptxt.a CMakeFiles/gptxt.dir/src/parsers/gptxt.c.obj CMakeFiles/gptxt.dir/src/parsers/parse.c.obj
+C:\mingw64\bin\ranlib.exe lib\libgptxt.a

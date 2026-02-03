@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/PC/Desktop/Gps_projetc/build/cmake_install.cmake",
+		"C:/Users/PC/Desktop/Gps_projetc/build/libnmea/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

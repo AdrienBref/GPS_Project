@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc lib\libgprmc.a CMakeFiles/gprmc.dir/src/parsers/gprmc.c.obj CMakeFiles/gprmc.dir/src/parsers/parse.c.obj
+C:\mingw64\bin\ranlib.exe lib\libgprmc.a

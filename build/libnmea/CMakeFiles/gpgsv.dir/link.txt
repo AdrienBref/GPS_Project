@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc lib\libgpgsv.a CMakeFiles/gpgsv.dir/src/parsers/gpgsv.c.obj CMakeFiles/gpgsv.dir/src/parsers/parse.c.obj
+C:\mingw64\bin\ranlib.exe lib\libgpgsv.a

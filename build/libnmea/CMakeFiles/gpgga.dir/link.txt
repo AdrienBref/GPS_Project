@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc lib\libgpgga.a CMakeFiles/gpgga.dir/src/parsers/gpgga.c.obj CMakeFiles/gpgga.dir/src/parsers/parse.c.obj
+C:\mingw64\bin\ranlib.exe lib\libgpgga.a
