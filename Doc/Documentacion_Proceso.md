@@ -93,7 +93,7 @@ Durante el desarrollo se han encontrado varios problemas, listados de menos comp
     8.- Se procede a usar la libreria libnmea, se consulta documentación y se trata de incluir en el proyecto.
     9.- Una vez incluida(y sin errores de compilación) se procede a añadir el parse de la trama fija que se envía.
     10.- Se procede a codificar con la IA el sender para ir más rápido, ya que, no es el objeto principal de la prueba.
-    11.- Una vez que se observa que se reciben tramas con valores variables en la geoposición se procede a parsear en el receirver y a desarrollar la comprobación de geoposición: fórmulas de cálculo de posición, tratamiento de cadenas.
+    11.- Una vez que se observa que se reciben tramas con valores variables en la geoposición se procede a parsear en el receirver y a desarrollar la comprobación de geoposición: fórmulas de cálculo de posición, tratamiento de cadenas y comparación con la posicion original.
     12.- Pruebas finales.
 
 ## Proyección de horas
